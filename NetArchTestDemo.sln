@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetArchTestDemo.Controllers", "NetArchTestDemo.Controllers\NetArchTestDemo.Controllers.csproj", "{F0F2A4B1-D4C5-4D23-B1C7-D4A8416A2F46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetArchTestDemo.Controllers", "NetArchTestDemo.Controllers\NetArchTestDemo.Controllers.csproj", "{F0F2A4B1-D4C5-4D23-B1C7-D4A8416A2F46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetArchTestDemo.Services", "NetArchTestDemo.Services\NetArchTestDemo.Services.csproj", "{56236986-332B-402F-B84C-DAAFE672FD02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetArchTestDemo.Services", "NetArchTestDemo.Services\NetArchTestDemo.Services.csproj", "{56236986-332B-402F-B84C-DAAFE672FD02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetArchTestDemo.Repositories", "NetArchTestDemo.Repositories\NetArchTestDemo.Repositories.csproj", "{BF06A5FA-EDF6-4995-83A4-B959E212870E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetArchTestDemo.Repositories", "NetArchTestDemo.Repositories\NetArchTestDemo.Repositories.csproj", "{BF06A5FA-EDF6-4995-83A4-B959E212870E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetArchTestDemo.Tests", "NetArchTestDemo.Tests\NetArchTestDemo.Tests.csproj", "{655C9789-5DA2-4C6C-9E00-3BACA2274C3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetArchTestDemo.Tests", "NetArchTestDemo.Tests\NetArchTestDemo.Tests.csproj", "{655C9789-5DA2-4C6C-9E00-3BACA2274C3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4363C071-E533-4016-9E24-36BE65FF96B6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
